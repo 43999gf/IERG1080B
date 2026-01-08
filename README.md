@@ -1,2 +1,3 @@
 # IERG1080B
-Lab Exercise
+Lab1
+basic i/o
