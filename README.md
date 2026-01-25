@@ -1,2 +1,2 @@
 # IERG1080B
-Lab Exercise
+Lab 3 Control Flow
